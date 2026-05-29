@@ -1,0 +1,6 @@
+streamlit
+streamlit-autorefresh
+psutil
+pandas
+openai
+python-dotenv
